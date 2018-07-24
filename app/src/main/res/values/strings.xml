@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FixMyCity</string>
+    <string name="business_permit">BUSINESS PERMIT</string>
+    <string name="busted_street_lights">BUSTED STREET LIGHTS</string>
+    <string name="delayed_salaries">DELAYED SALARIES</string>
+    <string name="illegal_parking">ILLEGAL PARKING</string>
+    <string name="uncollected_garbage">UNCOLLECTED GARBAGE</string>
+    <string name="others">OTHERS</string>
 </resources>

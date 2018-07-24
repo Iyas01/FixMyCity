@@ -27,7 +27,7 @@
             android:layout_margin="10dp"
             android:background="@drawable/rounded_edges"
             android:padding="20dp"
-            android:text="BUSINESS PERMIT"
+            android:text="@string/business_permit"
             android:textSize="25sp"/>
 
         <Button
@@ -37,7 +37,7 @@
             android:layout_margin="10dp"
             android:background="@drawable/rounded_edges"
             android:padding="20dp"
-            android:text="BUSTED STREET LIGHTS"
+            android:text="@string/busted_street_lights"
             android:textSize="25sp"/>
 
         <Button
@@ -47,7 +47,7 @@
             android:layout_margin="10dp"
             android:background="@drawable/rounded_edges"
             android:padding="20dp"
-            android:text="DELAYED SALARIES"
+            android:text="@string/delayed_salaries"
             android:textSize="25sp"/>
 
         <Button
@@ -57,7 +57,7 @@
             android:layout_margin="10dp"
             android:background="@drawable/rounded_edges"
             android:padding="20dp"
-            android:text="ILLEGAL PARKING"
+            android:text="@string/illegal_parking"
             android:textSize="25sp"/>
 
         <Button
@@ -67,7 +67,7 @@
             android:layout_margin="10dp"
             android:background="@drawable/rounded_edges"
             android:padding="20dp"
-            android:text="UNCOLLECTED GARBAGE"
+            android:text="@string/uncollected_garbage"
             android:textSize="25sp"/>
 
         <Button
@@ -77,11 +77,9 @@
             android:layout_margin="10dp"
             android:background="@drawable/rounded_edges"
             android:padding="20dp"
-            android:text="OTHERS"
+            android:text="@string/others"
             android:textSize="25sp"/>
 
     </LinearLayout>
-
-
 
 </ScrollView>
